@@ -334,7 +334,7 @@
     "transactionDate": "2022-07-21T13:50:47.673Z",
     "status": "rejected",
     "clientId": 2377,
-    "amount": 2.000,
+    "amount": 2.500,
     "currencyCode": "JPY",
     "bankName": "Nuvei Acquirer - MasterCard",
     "dateModified": "2022-07-21T13:51:05.643Z",
@@ -855,7 +855,7 @@
     "currencyCode": "EUR",
     "bankName": "Nuvei Acquirer - Visa",
     "dateModified": "2022-07-20T15:58:16.190Z",
-    "dateCreated": "2022-07-20T15:58:14.720Z"
+    "dateCreated": "20220720T155814720Z"
   },
   {
     "transactionMainID": 333332151,
